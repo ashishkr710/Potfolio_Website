@@ -14,6 +14,10 @@ export const navLinks = [
     title: "Portfolio",
   },
   {
+    id: "skills",
+    title: "Skills",
+  },
+  {
     id: "experience",
     title: "Experience",
   },
@@ -36,7 +40,7 @@ const experiences = [
   },
   {
     title: "Computer Science",
-    company_name:"MMDU",
+    company_name: "MMDU",
     date: "2020 - 2024",
     details: [
       // "Built a <span style='color: white;'>computer science foundation</span> learning theory, computer architecture, and software engineering.",

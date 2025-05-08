@@ -48,7 +48,7 @@ const Contact = () => {
 
         <form
           // action="https://getform.io/f/8b086558-47d4-49d0-852d-ec8c22da40f7"
-          method="POST"
+          // method="POST"
           className="mt-12 gap-4 flex flex-col"
         >
           <span className='text-white font-medium mt-3'>Full Name</span>
